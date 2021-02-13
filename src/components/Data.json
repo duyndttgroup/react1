@@ -1,0 +1,31 @@
+[{
+        "id": 1,
+        "name": "Le Duan",
+        "tel": "098722819",
+        "permission": 1
+    },
+    {
+        "id": 2,
+        "name": "Le Duc Tho",
+        "tel": "098722818",
+        "permission": 2
+    },
+    {
+        "id": 3,
+        "name": "Le Duc Anh",
+        "tel": "098722817",
+        "permission": 3
+    },
+    {
+        "id": 4,
+        "name": "Phan Van Khai",
+        "tel": "098722816",
+        "permission": 3
+    },
+    {
+        "id": 5,
+        "name": "Phan Van Duc",
+        "tel": "098722815",
+        "permission": 2
+    }
+]
